@@ -1,0 +1,39 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(30,42,58,1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="80" topLeftY="100" width="200" height="30">
+      <content textType="caption" fontSize="12" color="rgba(196,149,106,1)" fontFamily="思源宋体" letterSpacing="2">
+        <p>一个问题</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="180" width="800" height="180">
+      <content textType="title" fontSize="52" color="rgba(245,240,232,1)" fontFamily="思源宋体" lineSpacing="multiple:1.4">
+        <p>同样是夕阳，</p>
+        <p>为什么味道不一样？</p>
+      </content>
+    </shape>
+    <line startX="80" startY="380" endX="200" endY="380">
+      <border color="rgba(196,149,106,1)" width="1"/>
+    </line>
+    <shape type="text" topLeftX="80" topLeftY="400" width="800" height="60">
+      <content textType="body" fontSize="16" color="rgba(180,170,160,1)" fontFamily="思源宋体" lineSpacing="multiple:1.6">
+        <p>我们挑出了十五首黄昏诗，按诗人分组——</p>
+        <p>然后发现，有三个人的黄昏，完全不同。</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="780" topLeftY="490" width="100" height="30">
+      <content textType="caption" fontSize="11" color="rgba(150,140,130,1)" textAlign="right" fontFamily="思源宋体">
+        <p>03 / 09</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>挑出来之后我们更困惑了：同样是写夕阳，为什么王维写得那么安静，李商隐写得那么难过，杜甫又写得那么重？于是我们锁定了三位诗人，一组一组地读。</p>
+    </content>
+  </note>
+</slide>

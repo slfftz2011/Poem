@@ -1,0 +1,44 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(245,240,232,1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="80" topLeftY="60" width="200" height="30">
+      <content textType="caption" fontSize="12" color="rgba(196,149,106,1)" fontFamily="思源宋体" letterSpacing="2">
+        <p>引言</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="100" width="800" height="50">
+      <content textType="title" fontSize="26" color="rgba(42,42,42,1)" fontFamily="思源宋体">
+        <p>同一轮落日，照见三种心境</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="180" width="800" height="240">
+      <content textType="body" fontSize="17" color="rgba(60,60,60,1)" fontFamily="思源宋体" lineSpacing="multiple:2.2">
+        <p>"大漠孤烟直，长河落日圆。"——王维笔下的黄昏，苍茫辽阔。</p>
+        <p>"日暮乡关何处是？烟波江上使人愁。"——崔颢笔下的黄昏，迷茫怅惘。</p>
+        <p>"夕阳无限好，只是近黄昏。"——李商隐笔下的黄昏，赞美与惋惜同落。</p>
+      </content>
+    </shape>
+    <line startX="80" startY="440" endX="120" endY="440">
+      <border color="rgba(196,149,106,1)" width="2"/>
+    </line>
+    <shape type="text" topLeftX="80" topLeftY="455" width="800" height="40">
+      <content textType="body" fontSize="15" color="rgba(196,149,106,1)" fontFamily="思源宋体">
+        <p>《唐诗三百首》中写日暮、斜阳、落日的诗，不下十五首。</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="780" topLeftY="490" width="100" height="30">
+      <content textType="caption" fontSize="11" color="rgba(150,140,130,1)" textAlign="right" fontFamily="思源宋体">
+        <p>02 / 09</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>王维写黄昏，是塞外浑圆的落日；崔颢写黄昏，是江上弥散的暮霭；李商隐写黄昏，是古原上将逝的余晖。我们通读《唐诗三百首》发现，直接写日暮、斜阳、落日的诗不下十五首。黄昏，似乎是唐代诗人最偏爱的时间场域。</p>
+    </content>
+  </note>
+</slide>

@@ -1,0 +1,47 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(30,42,58,1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="80" startY="80" endX="200" endY="80">
+      <border color="rgba(196,149,106,1)" width="1"/>
+    </line>
+    <shape type="text" topLeftX="80" topLeftY="90" width="400" height="30">
+      <content textType="caption" fontSize="13" color="rgba(196,149,106,1)" letterSpacing="2">
+        <p>结语</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="200" width="800" height="120">
+      <content textType="title" fontSize="40" color="rgba(245,240,232,1)" fontFamily="思源宋体" lineSpacing="multiple:1.6">
+        <p>夕阳无限好，</p>
+        <p>不是因为它不会消失。</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="380" width="800" height="60">
+      <content textType="body" fontSize="18" color="rgba(180,170,160,1)" fontFamily="思源宋体">
+        <p>而是因为总有人愿意在它消失之前，</p>
+        <p>停下来，认真看一眼。</p>
+      </content>
+    </shape>
+    <line startX="80" startY="470" endX="880" endY="470">
+      <border color="rgba(245,240,232,0.2)" width="1"/>
+    </line>
+    <shape type="text" topLeftX="80" topLeftY="485" width="400" height="30">
+      <content textType="caption" fontSize="11" color="rgba(150,140,130,1)" fontFamily="思源宋体">
+        <p>谢谢大家</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="780" topLeftY="485" width="100" height="30">
+      <content textType="caption" fontSize="11" color="rgba(150,140,130,1)" textAlign="right" fontFamily="思源宋体">
+        <p>09 / 09</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>我们这次探究最大的收获，不是背会了几首诗，而是发现：原来在十几岁的年纪，我们也可以学着像王维那样接一束光，像李商隐那样珍惜一个傍晚，像杜甫那样把自己的生活和更大的世界连起来。谢谢大家。</p>
+    </content>
+  </note>
+</slide>

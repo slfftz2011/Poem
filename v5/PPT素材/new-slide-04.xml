@@ -1,0 +1,45 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(245,240,232,1)"/>
+    </fill>
+  </style>
+  <data>
+    <img src="VokJbpnaso7cH5xfKwecmlxb6Ec" topLeftX="480" topLeftY="0" width="480" height="540"/>
+    <shape type="text" topLeftX="60" topLeftY="70" width="400" height="30">
+      <content textType="caption" fontSize="12" color="rgba(196,149,106,1)" fontFamily="思源宋体" letterSpacing="2">
+        <p>第一位 · 王维</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="60" topLeftY="120" width="400" height="50">
+      <content textType="title" fontSize="28" color="rgba(42,42,42,1)" fontFamily="思源宋体">
+        <p>光来了，就接住</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="60" topLeftY="210" width="400" height="120">
+      <content textType="title" fontSize="26" color="rgba(60,60,60,1)" fontFamily="思源宋体" lineSpacing="multiple:1.8">
+        <p>返景入深林，</p>
+        <p>复照青苔上。</p>
+      </content>
+    </shape>
+    <line startX="60" startY="370" endX="100" endY="370">
+      <border color="rgba(196,149,106,1)" width="2"/>
+    </line>
+    <shape type="text" topLeftX="60" topLeftY="390" width="400" height="100">
+      <content textType="body" fontSize="14" color="rgba(80,80,80,1)" fontFamily="思源宋体" lineSpacing="multiple:1.7">
+        <p>深山里没人，只有一缕夕阳照在青苔上。</p>
+        <p>他不感叹，不挽留，只是把这个瞬间记下来。</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="60" topLeftY="490" width="100" height="30">
+      <content textType="caption" fontSize="11" color="rgba(150,140,130,1)" fontFamily="思源宋体">
+        <p>04 / 09</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>王维的黄昏是《鹿柴》。一缕夕阳照进深林，落在青苔上。他不写"夕阳好美"，也不写"可惜要天黑了"。他只是接住了这束光。这种态度我们叫它——安住当下。</p>
+    </content>
+  </note>
+</slide>

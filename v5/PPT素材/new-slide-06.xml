@@ -1,0 +1,45 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(245,240,232,1)"/>
+    </fill>
+  </style>
+  <data>
+    <img src="DR5ubCKj1ojzfqxL9VicF5jn6ic" topLeftX="480" topLeftY="0" width="480" height="540"/>
+    <shape type="text" topLeftX="60" topLeftY="70" width="400" height="30">
+      <content textType="caption" fontSize="12" color="rgba(196,149,106,1)" fontFamily="思源宋体" letterSpacing="2">
+        <p>第三位 · 杜甫</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="60" topLeftY="120" width="400" height="50">
+      <content textType="title" fontSize="28" color="rgba(42,42,42,1)" fontFamily="思源宋体">
+        <p>把黄昏扛在肩上</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="60" topLeftY="200" width="400" height="140">
+      <content textType="title" fontSize="20" color="rgba(60,60,60,1)" fontFamily="思源宋体" lineSpacing="multiple:1.8">
+        <p>万里悲秋常作客，</p>
+        <p>百年多病独登台。</p>
+      </content>
+    </shape>
+    <line startX="60" startY="380" endX="100" endY="380">
+      <border color="rgba(196,149,106,1)" width="2"/>
+    </line>
+    <shape type="text" topLeftX="60" topLeftY="400" width="400" height="80">
+      <content textType="body" fontSize="14" color="rgba(80,80,80,1)" fontFamily="思源宋体" lineSpacing="multiple:1.7">
+        <p>天地那么大，时间那么长——</p>
+        <p>他把自己的命运和整个时代，站在了一起。</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="60" topLeftY="490" width="100" height="30">
+      <content textType="caption" fontSize="11" color="rgba(150,140,130,1)" fontFamily="思源宋体">
+        <p>06 / 09</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>读到杜甫的时候我们组安静了。《登高》被称为古今七言律第一。他不是一个人在看夕阳，他是带着自己的病、自己的漂泊、整个国家的苦难，站在高台上。这是第三种态度——担当。</p>
+    </content>
+  </note>
+</slide>

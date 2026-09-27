@@ -1,0 +1,71 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(30,42,58,1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="80" topLeftY="60" width="200" height="30">
+      <content textType="caption" fontSize="12" color="rgba(196,149,106,1)" fontFamily="思源宋体" letterSpacing="2">
+        <p>三种态度</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="100" width="800" height="50">
+      <content textType="title" fontSize="28" color="rgba(245,240,232,1)" fontFamily="思源宋体">
+        <p>同一个夕阳，三种活法</p>
+      </content>
+    </shape>
+    <line startX="120" startY="200" endX="120" endY="420">
+      <border color="rgba(196,149,106,0.5)" width="1"/>
+    </line>
+    <line startX="480" startY="200" endX="480" endY="420">
+      <border color="rgba(196,149,106,0.5)" width="1"/>
+    </line>
+    <shape type="text" topLeftX="140" topLeftY="210" width="300" height="40">
+      <content textType="title" fontSize="22" color="rgba(196,149,106,1)" fontFamily="思源宋体">
+        <p>王维 · 安住</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="140" topLeftY="270" width="300" height="120">
+      <content textType="body" fontSize="15" color="rgba(200,190,180,1)" fontFamily="思源宋体" lineSpacing="multiple:1.8">
+        <p>光来了就看</p>
+        <p>天黑了就关门</p>
+        <p>不挽留，不哀叹</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="500" topLeftY="210" width="300" height="40">
+      <content textType="title" fontSize="22" color="rgba(196,149,106,1)" fontFamily="思源宋体">
+        <p>李商隐 · 珍惜</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="500" topLeftY="270" width="300" height="120">
+      <content textType="body" fontSize="15" color="rgba(200,190,180,1)" fontFamily="思源宋体" lineSpacing="multiple:1.8">
+        <p>知道会消失</p>
+        <p>所以此刻更认真</p>
+        <p>在"近"字里停一下</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="700" topLeftY="210" width="200" height="40">
+      <content textType="title" fontSize="22" color="rgba(196,149,106,1)" fontFamily="思源宋体">
+        <p>杜甫 · 担当</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="700" topLeftY="270" width="200" height="120">
+      <content textType="body" fontSize="15" color="rgba(200,190,180,1)" fontFamily="思源宋体" lineSpacing="multiple:1.8">
+        <p>不只看自己</p>
+        <p>也看更大的世界</p>
+        <p>把黄昏扛在肩上</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="780" topLeftY="490" width="100" height="30">
+      <content textType="caption" fontSize="11" color="rgba(150,140,130,1)" textAlign="right" fontFamily="思源宋体">
+        <p>07 / 09</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>总结一下：王维教我们安住——累了就抬头看看窗外；李商隐教我们珍惜——周末、假期、和朋友在一起的时间，认真过；杜甫教我们担当——除了自己的压力，也看看更大的世界。</p>
+    </content>
+  </note>
+</slide>

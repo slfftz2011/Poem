@@ -1,0 +1,53 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(30,42,58,1)"/>
+    </fill>
+  </style>
+  <data>
+    <img src="SwTqbzllwoQJCTxKYx8chEoY6qg" topLeftX="0" topLeftY="0" width="960" height="540"/>
+    <shape type="rect" topLeftX="0" topLeftY="0" width="960" height="540">
+      <fill>
+        <fillColor color="rgba(30,42,58,0.6)"/>
+      </fill>
+    </shape>
+    <line startX="80" startY="70" endX="200" endY="70">
+      <border color="rgba(196,149,106,1)" width="1"/>
+    </line>
+    <shape type="text" topLeftX="80" topLeftY="80" width="800" height="30">
+      <content textType="body" fontSize="12" color="rgba(210,180,140,1)" letterSpacing="2">
+        <p>唐诗三百首 · 小组研学汇报</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="160" width="800" height="200">
+      <content textType="title" fontSize="34" color="rgba(245,240,232,1)" fontFamily="思源宋体" lineSpacing="multiple:1.5">
+        <p>"夕阳无限好"背后：</p>
+        <p>《唐诗三百首》日暮意象的</p>
+        <p>三重时间态度</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="400" width="800" height="30">
+      <content textType="body" fontSize="14" color="rgba(220,210,200,1)" fontFamily="思源宋体">
+        <p>——及其当代回响</p>
+      </content>
+    </shape>
+    <line startX="80" startY="470" endX="880" endY="470">
+      <border color="rgba(245,240,232,0.3)" width="1"/>
+    </line>
+    <shape type="text" topLeftX="80" topLeftY="485" width="400" height="30">
+      <content textType="caption" fontSize="11" color="rgba(200,190,180,1)" fontFamily="思源宋体">
+        <p>汇报人：甲 · 乙</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="780" topLeftY="485" width="100" height="30">
+      <content textType="caption" fontSize="11" color="rgba(200,190,180,1)" textAlign="right" fontFamily="思源宋体">
+        <p>01 / 09</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>大家好。我们这次研学的题目是——"夕阳无限好"背后：《唐诗三百首》日暮意象的三重时间态度及其当代回响。</p>
+    </content>
+  </note>
+</slide>

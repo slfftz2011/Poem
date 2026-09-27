@@ -1,0 +1,44 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(30,42,58,1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape type="text" topLeftX="80" topLeftY="70" width="200" height="30">
+      <content textType="caption" fontSize="12" color="rgba(196,149,106,1)" fontFamily="思源宋体" letterSpacing="2">
+        <p>第二位 · 李商隐</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="120" width="800" height="50">
+      <content textType="title" fontSize="28" color="rgba(245,240,232,1)" fontFamily="思源宋体">
+        <p>在"近"字里停一下</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="80" topLeftY="220" width="800" height="120">
+      <content textType="title" fontSize="30" color="rgba(245,240,232,1)" fontFamily="思源宋体" lineSpacing="multiple:1.8">
+        <p>夕阳无限好，</p>
+        <p>只是近黄昏。</p>
+      </content>
+    </shape>
+    <line startX="80" startY="380" endX="120" endY="380">
+      <border color="rgba(196,149,106,1)" width="2"/>
+    </line>
+    <shape type="text" topLeftX="80" topLeftY="400" width="800" height="80">
+      <content textType="body" fontSize="16" color="rgba(180,170,160,1)" fontFamily="思源宋体" lineSpacing="multiple:1.7">
+        <p>注意那个"近"字——不是"就是"黄昏，是"快到"黄昏。</p>
+        <p>最美好的时刻，恰恰因为知道要结束了。</p>
+      </content>
+    </shape>
+    <shape type="text" topLeftX="780" topLeftY="490" width="100" height="30">
+      <content textType="caption" fontSize="11" color="rgba(150,140,130,1)" textAlign="right" fontFamily="思源宋体">
+        <p>05 / 09</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content textType="body">
+      <p>李商隐的黄昏是《乐游原》。我们组有人说，这不就是周末晚上吗？你正在玩，忽然想到明天要上学——开心里掺着一点慌。李商隐写下的，就是这种"马上要结束"的感觉。</p>
+    </content>
+  </note>
+</slide>
